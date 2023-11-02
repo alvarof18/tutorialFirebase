@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "564267438653",
+    "project_id": "cursofirebase-62d04",
+    "storage_bucket": "cursofirebase-62d04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564267438653:android:ac01f4c474d61da7225054",
+        "android_client_info": {
+          "package_name": "com.alvaro.firebasetutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBNeAluEt3xmLOpqsynNMVbQKtd8U9zY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564267438653:android:ca66057f17c4bf11225054",
+        "android_client_info": {
+          "package_name": "com.alvaro.firebasetutorial.debug"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBNeAluEt3xmLOpqsynNMVbQKtd8U9zY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
